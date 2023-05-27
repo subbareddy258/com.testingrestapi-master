@@ -15,7 +15,7 @@ Feature: Client Token
 
 
 
-  Scenario: Client token genration2
+  Scenario: Client token genrationd2
     Given  token is generated
     When Creates a new booking "createBooking"
     And Verifies booking details displayed properly
