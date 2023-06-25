@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="com.testng" />
         <module name="com.testingapi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="com.testingapi" target="1.8" />
+      <module name="com.testng" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

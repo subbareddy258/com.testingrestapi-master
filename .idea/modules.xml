@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/com.testingrestapi-master/com.testingapi.iml" filepath="$PROJECT_DIR$/com.testingrestapi-master/com.testingapi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/com.testingrestapi-master.iml" filepath="$PROJECT_DIR$/.idea/com.testingrestapi-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/capstone.iml" filepath="$PROJECT_DIR$/.idea/capstone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.testing-capstone/com.testingapi.iml" filepath="$PROJECT_DIR$/com.testing-capstone/com.testingapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.testingrestapi-master/com.testng.iml" filepath="$PROJECT_DIR$/com.testingrestapi-master/com.testng.iml" />
     </modules>
   </component>
 </project>
